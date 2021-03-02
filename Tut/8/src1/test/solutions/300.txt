@@ -1,0 +1,1 @@
+Binary(:=,Id(a),Binary(:=,Binary(=,IntLiteral(4),Id(b)),IntLiteral(6)))

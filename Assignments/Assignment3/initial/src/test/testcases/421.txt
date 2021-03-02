@@ -1,0 +1,12 @@
+
+                Function: main
+                Body: 
+                Var: a[1][2];
+                a[0][0] = 1.1;
+                EndBody.
+                Function: lain
+                Body: 
+                a[0][0] = 1;
+                a[0][0] = 1.2;
+                EndBody.
+                

@@ -1,0 +1,6 @@
+
+        Function : fact
+        Body:
+            v[fact(n-1)] = 3;
+        EndBody.
+        

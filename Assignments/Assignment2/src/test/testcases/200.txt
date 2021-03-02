@@ -1,0 +1,24 @@
+
+Function: foo
+    Parameter: a[5], b
+    Body:
+        Var: i = 0;
+        While (i < 5)
+            a[i] = b +. 1.0;
+            i = i + 1;
+        EndWhile.
+        If n == 0 Then
+            Return 1;
+        Else
+            Return n * fact (n - 1);
+        EndIf.
+        v = (4. \. 3.) *. 3.14 *. r *. r *. r;
+    EndBody.
+    If bool_of_string ("True") Then
+        a = int_of_string (read ());
+        b = float_of_int (a) +. 2.0;
+    EndIf.
+    foo (2 + x, 4. \. y);
+    a[3 + foo(2)] = a[b[2][3]] + 4;
+    writeln(i);
+EndIf.

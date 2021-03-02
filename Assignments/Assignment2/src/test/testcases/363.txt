@@ -1,0 +1,9 @@
+
+Function: foo
+Parameter: a[5],b
+Body:
+EndBody.
+Function: foo
+Parameter: a[5],b
+Body:
+EndBody.

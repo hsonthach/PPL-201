@@ -1,0 +1,5 @@
+
+Var : a, b, c = 3;
+    Var : z = False ;
+    Var   :garray[1][3] ;
+    Var   : d = foo(False[1][3]) ;

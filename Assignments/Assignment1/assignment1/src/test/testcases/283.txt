@@ -1,0 +1,10 @@
+
+Var:m,n[10] ;
+Function : fact
+    Parameter: n
+    Body:
+        If expression Then a=3 ;
+ElseIf expression Then b=4 ;
+ElseIf expression Then c =5 ;
+EndIf.
+    EndBody.

@@ -1,0 +1,48 @@
+program -> ( var_declaration
+| func_declaration) program
+| ( var_declaration
+| func_declaration);
+var_declaration -> var_type id_list SM;
+var_type -> INT
+| FLOAT;
+id_list -> ID CM id_list
+| ID;
+
+func_declaration -> var_type ID param_declaration body;
+
+param_declaration -> LP list_of_params RP;
+list_of_params -> list_of_non_null_params
+|;
+list_of_non_null_params -> param SM list_of_non_null_params
+| param;
+param -> var_type id_list;
+
+body -> LB (var_declaration
+| statement
+| eps ) RB;
+statement -> (assignment_statement
+| call_statement
+| return_statement) SM;
+
+assignment_statement -> ID EQ expression;
+expression -> exp1 ADD expression
+| exp1;
+exp1 -> exp2 SUB exp2
+| exp2;
+exp2 -> exp2 DIV exp3
+| exp2 MUL exp3
+| exp3;
+exp3 -> operands;
+operands -> INTLIT
+| FLOATLIT
+| ID
+| call_statement
+| sub_expression;
+sub_expression -> LP expression RP;
+
+call_statement -> ID LP expression_list RP;
+expression_list: non_null_expression_list | eps;
+non_null_expression_list -> expression CM non_null_expression_list
+| expression;
+
+return_statement -> RETURN expression;

@@ -1,0 +1,1 @@
+Program([VarDecl(Id('a'),[],None),VarDecl(Id('b'),[],None),VarDecl(Id('c'),[],IntLiteral(3)),VarDecl(Id('z'),[],BooleanLiteral(false)),VarDecl(Id('garray'),[1,3],None)])

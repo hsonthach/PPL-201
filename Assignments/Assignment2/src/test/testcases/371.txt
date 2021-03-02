@@ -1,0 +1,11 @@
+
+        Var: a ;
+        Var: b ;
+        Function: foo
+Body:
+ a= b ;
+EndBody.
+        Function: foo
+Body:
+ a= b ;
+EndBody.

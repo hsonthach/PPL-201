@@ -1,0 +1,11 @@
+
+                Function: lain
+                Parameter:x,y
+                Body:
+                x = 3;
+                lain(4.3,0);
+                EndBody.
+                Function: main
+                Body: 
+                EndBody.
+                

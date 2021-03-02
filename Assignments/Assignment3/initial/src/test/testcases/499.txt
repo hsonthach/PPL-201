@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([VarDecl(Id(id1)),VarDecl(Id(id2)),VarDecl(Id(id3)),VarDecl(Id(id4)),VarDecl(Id(id5)),VarDecl(Id(id6)),VarDecl(Id(arr1),[1],ArrayLiteral(IntLiteral(1),IntLiteral(2))),VarDecl(Id(arr2),[1],ArrayLiteral(IntLiteral(1),IntLiteral(2)))][While(Id(id1),[VarDecl(Id(id10))],[Assign(Id(id10),IntLiteral(3))]),Assign(Id(id10),IntLiteral(3))]))])

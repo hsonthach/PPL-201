@@ -1,0 +1,1 @@
+Program([VarDecl(Id('m'),[],None),VarDecl(Id('n'),[10],None),FuncDecl(Id('fact'),[VarDecl(Id('n'),[],None)],([],[If([BinaryOp('==',Id('n'),IntLiteral(6)),[],[Return(IntLiteral(1))]),([],[Return(BinaryOp('*',Id('n'),CallExpr(Id('fact'),[BinaryOp('-',Id('n'),IntLiteral(1))])))])]))])

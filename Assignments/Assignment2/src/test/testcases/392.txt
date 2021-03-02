@@ -1,0 +1,5 @@
+
+Function: foo
+Body:
+ a= -(fact(n-1)+3*(6+6))  ;
+EndBody.

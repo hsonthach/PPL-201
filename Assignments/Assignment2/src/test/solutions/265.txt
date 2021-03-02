@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('foo'),[VarDecl(Id('a'),[5],None),VarDecl(Id('b'),[],None)],([],[Assign(Id('b'),BinaryOp('-',BinaryOp('+',UnaryOp('-',IntLiteral(3)),UnaryOp('-',IntLiteral(3))),UnaryOp('-',IntLiteral(3))))]))])

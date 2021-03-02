@@ -1,0 +1,6 @@
+
+Function: foo
+Parameter: a[5], b
+Body:
+      If False Then foo(0);  EndIf.
+EndBody.

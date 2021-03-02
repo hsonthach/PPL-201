@@ -1,0 +1,6 @@
+
+Function: foo
+Parameter: a[5], b
+Body:
+    a = getPointer()[2] ;
+EndBody.

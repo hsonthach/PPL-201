@@ -1,0 +1,12 @@
+
+                Function: lain
+                Parameter:
+                Body:
+                Return 3;
+                EndBody.
+                Function: main
+                Parameter: b
+                Body: 
+                lain();
+                EndBody.
+                

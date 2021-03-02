@@ -1,0 +1,7 @@
+Var: x = 5;
+        Function: main
+        Body:
+            x = 10;
+            printLn(x);
+        EndBody.
+        

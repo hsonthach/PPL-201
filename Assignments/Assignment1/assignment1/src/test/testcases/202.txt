@@ -1,0 +1,6 @@
+
+Function: foo
+Parameter: a[5], b
+Body:
+    Return 3 + foo (2 + x, 4. \. y);
+EndBody.

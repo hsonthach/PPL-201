@@ -1,0 +1,6 @@
+
+Function: foo
+Parameter: a[5], b
+Body:
+    Do While a==2 Do a=3; EndWhile.  While a==3 EndDo.
+EndBody.

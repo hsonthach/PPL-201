@@ -1,0 +1,7 @@
+
+        Var:m,n[10] ;
+        Function : main
+            Body:
+                For (i = 0, i < 10, 2) Do a=3 ; EndFor.
+            EndBody.
+        

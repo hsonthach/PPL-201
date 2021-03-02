@@ -1,0 +1,6 @@
+
+Function:
+Parameter: a[3]
+Body:
+    var: a =3 ;
+EndBody.

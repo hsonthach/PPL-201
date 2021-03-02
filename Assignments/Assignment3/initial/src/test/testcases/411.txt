@@ -1,0 +1,13 @@
+
+                    Function: main
+                    Body:
+                    Var: a;
+                    a = 3;
+                    a = b;
+                    EndBody.
+                    Function: abc
+                    Body:
+                    Var:b;
+                    b = a;
+                    EndBody.
+                    

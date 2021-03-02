@@ -1,0 +1,6 @@
+
+Function: foo
+Parameter: a[5], b
+Body:
+      foo(2)[3+x] = a[b[f+y[2]-h[t[5+j]] * 4]] + 3;
+EndBody.

@@ -1,0 +1,12 @@
+
+            int main() {
+                int a;
+                float b;
+                int a, b, c, d, e;
+                float x, y, z, u, v;
+                a = 0; 
+                b= 0 ;
+                c= 0 ;
+                return a+b+c;
+            }
+        

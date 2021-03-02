@@ -1,0 +1,10 @@
+
+                Function: main
+                Parameter: x,y,z
+                Body:
+                x = 4;
+                z = 2;
+                main(x,5.3,z);
+                y = 4;
+                EndBody.
+                

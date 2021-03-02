@@ -1,0 +1,6 @@
+
+Function: foo
+Parameter: a[5], b
+Body:
+      While (True) Do a = a+1 ;  EndWhile.
+EndBody.

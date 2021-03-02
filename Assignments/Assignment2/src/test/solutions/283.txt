@@ -1,0 +1,1 @@
+Program([VarDecl(Id('m'),[],None),VarDecl(Id('n'),[10],None),FuncDecl(Id('fact'),[VarDecl(Id('n'),[],None)],([],[If([Id('expression'),[],[If([Id('expression'),[],[If([Id('expression'),[],[]),([],[])]),([],[])]),([],[])]))])

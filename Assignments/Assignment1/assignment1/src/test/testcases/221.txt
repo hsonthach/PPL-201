@@ -1,0 +1,11 @@
+
+Function: foo
+Parameter: a[5], b
+Body:
+    For (i = 0, i < 10, 2) Do
+    While (foo()) Do a = a+1 ;
+        If ((3==2) && (3==3)) && (3 == 3) Then foo(0);
+        ElseIf (3==3) Then Return hello();
+        EndIf.
+        EndWhile. EndFor.
+EndBody.

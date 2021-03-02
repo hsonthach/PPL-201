@@ -1,0 +1,1 @@
+Program([VarDecl(Id('m'),[],None),VarDecl(Id('n'),[10],None),FuncDecl(Id('fact'),[VarDecl(Id('n'),[],None)],([VarDecl(Id('r'),[],IntLiteral(10)),VarDecl(Id('v'),[],None)],[Assign(Id('v'),IntLiteral(3))]))])

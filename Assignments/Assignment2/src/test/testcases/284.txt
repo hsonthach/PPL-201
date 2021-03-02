@@ -1,0 +1,9 @@
+
+        Var:m,n[10] ;
+        Function : fact
+        Parameter: n
+        Body:
+            Var: r = 10, v ;
+            v = 3;
+        EndBody.
+        

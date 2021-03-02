@@ -1,0 +1,11 @@
+
+                Var: a;
+                Function: lain
+                Body:
+                a = main();
+                EndBody.
+                Function: main
+                Body:
+                Return 1;
+                EndBody.
+                

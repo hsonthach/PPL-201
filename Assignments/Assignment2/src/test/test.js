@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo)[],([][If(Id(expression),[],[Assign(Id(a),IntLiteral(3))])ElseIf(Id(expression),[],[Assign(Id(b),IntLiteral(4))])Else([],[Assign(Id(c),IntLiteral(5))])]))])

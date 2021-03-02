@@ -1,0 +1,2 @@
+
+   Var : a[2] = {"string","test"} ;

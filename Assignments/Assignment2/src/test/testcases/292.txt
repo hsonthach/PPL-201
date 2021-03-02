@@ -1,0 +1,4 @@
+
+Var :a, b, c= 3;
+Var :x, y= 3.e2;
+Var :z= "string";

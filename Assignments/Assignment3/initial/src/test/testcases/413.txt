@@ -1,0 +1,10 @@
+
+                    Var: b;
+                    Function: main
+                    Body:
+                    Var: a;
+                    a = too();
+                    a = b;
+                    b = c;
+                    EndBody.
+                    

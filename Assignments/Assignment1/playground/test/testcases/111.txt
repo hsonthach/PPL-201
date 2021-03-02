@@ -1,0 +1,9 @@
+
+** This is a block comment **
+
+
+** This is a line comment **
+
+** Comment with multiple lines
+    Hello comments
+**

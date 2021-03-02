@@ -1,0 +1,8 @@
+
+    Function: foo
+    Parameter: a[3],b,c;
+    Body:
+       foo(foo(3+4))[34][3+4] = 5 ;
+    EndBody.
+
+    

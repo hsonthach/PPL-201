@@ -1,0 +1,4 @@
+
+Var : a, b, c = 3;
+ Var : z = False ;
+ Var   :garray[1][3] ;

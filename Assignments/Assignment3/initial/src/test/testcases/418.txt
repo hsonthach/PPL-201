@@ -1,0 +1,12 @@
+
+                Var: a;
+                Function: main
+                Body:
+                a = 3;
+                EndBody.
+                Function: lain
+                Body:
+                Var: b;
+                b = a;
+                EndBody.
+                

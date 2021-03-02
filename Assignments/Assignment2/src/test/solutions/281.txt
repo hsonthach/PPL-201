@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],([],[While(Id('expression'),[VarDecl(Id('a'),[],IntLiteral(3))],[Assign(Id('a'),IntLiteral(3))])]))])

@@ -1,0 +1,8 @@
+
+Function: foo
+Parameter: a[5], b
+Body:
+      If ((3==2) && (3==3)) && (3 == 3) Then foo(0);  
+      ElseIf (3==3) Then Return hello();
+      EndIf.
+EndBody.

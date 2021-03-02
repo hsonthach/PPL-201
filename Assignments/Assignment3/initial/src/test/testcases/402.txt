@@ -1,0 +1,6 @@
+
+                    Var: a[2][3];
+                    Var: a;
+                    Function: main
+                    Body:
+                    EndBody.

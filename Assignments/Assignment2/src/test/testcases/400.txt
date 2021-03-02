@@ -1,0 +1,6 @@
+
+        Function: main
+            Parameter: x,y,z
+            Body:
+                x = foo(foo(y+foo(y)));
+            EndBody.

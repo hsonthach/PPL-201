@@ -1,0 +1,11 @@
+
+        Var:m,n[10] ;
+        Function : fact
+            Parameter: n
+            Body:
+                If expression Then
+                If expression Then
+            EndIf.
+            EndIf.
+            EndBody.
+        

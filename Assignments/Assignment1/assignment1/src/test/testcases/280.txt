@@ -1,0 +1,6 @@
+
+Var:m,n[10] ;
+Function : main
+    Body:
+        Do a=3; While expression EndDo.
+    EndBody.
