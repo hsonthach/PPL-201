@@ -1,0 +1,35 @@
+1. typedecl
+vardecl 
+
+2. down .. for 
+protected in for 
+
+3. exception vs simple call return 
+exception in python
+
+4. pass by .. 
+
+5. bang hoat dong 
+int *m ; 
+
+int *m ; 
+int * foo(int *x){
+    static int y ; 
+    int* z  = new int;
+    cout << z  << endl; 
+    switch (x[0]){
+        case 1: return &y ; 
+        case 2: return foo(&x[1]) ; 
+        case 3: return z ; 
+        case 4: return m ; 
+    } 
+}
+
+int main()
+{
+    cout<<"Hello World";
+    int x[2] = {2,3}; 
+    
+    cout << foo(x) ;
+    return 0;
+}
